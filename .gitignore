@@ -1,0 +1,8 @@
+*.sh
+*.out
+*.err
+*__pycache__/*
+datasets
+saliency
+most_*
+*.pth
